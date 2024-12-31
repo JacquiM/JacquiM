@@ -1,6 +1,6 @@
 ## Well, hello there! 🦄
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e6a70e58-832a-47e7-b0ea-1308847c0814)
 
 JacquiM is a dynamic and innovative professional with a strong passion for technology, education, and community engagement. With expertise spanning various domains such as the Power Platform, UiPath, process automation, and solution architecture, they excel at designing and implementing impactful solutions that streamline workflows and enhance user experiences. Her technical acumen is complemented by a creative flair for presenting and teaching, as demonstrated by her role as a university instructor and their regular contributions as a speaker at conferences and bootcamps.
 
